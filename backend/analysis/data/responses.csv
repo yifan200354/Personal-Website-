@@ -1,0 +1,73 @@
+class_year,attend_brown_or_risd,board_membership,is_executive_board_member,is_new_staffer_this_semester,ethnicity,is_fgli,gender,sexual_orientation,is_international,country
+2026/26.5,Brown,Editorial,No,No,Black or African American;White or European,Yes,Female,Queer,Yes,
+2027,Brown,Data,No,Yes,White or European,No,Male,Gay/Lesbian,No,
+2024/24.5,Brown,Copy Edit,Yes,No,Asian or Asian American,No,Male,Heterosexual,No,
+2027,Brown,Editorial,No,Yes,Asian or Asian American,No,Female,Heterosexual,No,
+2026/26.5,Brown,Business,No,Yes,Hispanic or Latino/a,No,Female,Heterosexual,Yes,Brazil
+2025/25.5,Brown,Editorial,No,No,Hispanic or Latino/a,Yes,Female,Heterosexual,No,
+2026/26.5,Brown,Business,No,No,Asian or Asian American,Yes,Male,Gay/Lesbian,No,
+2025/25.5,Brown,Data,No,No,Asian or Asian American,No,Female,Heterosexual,Yes,China 
+2026/26.5,Brown,Editorial,,No,White or European,No,Male,Gay/Lesbian,No,
+2025/25.5,Brown,Interviews,No,No,White or European,Yes,Female,Heterosexual,No,
+2024/24.5,RISD,Editorial,No,No,Asian or Asian American,Yes,Female,Heterosexual,Yes,Korea
+2027,Brown,Editorial;Multimedia,No,Yes,Asian or Asian American,Yes,Female,Heterosexual,No,
+2024/24.5,Brown,,Yes,No,White or European,Yes,Male;Non-Binary,Gay/Lesbian;Queer,No,
+2027,Brown,Copy Edit,No,Yes,Asian or Asian American,No,Female,Pansexual;Queer,Yes,Taiwan
+2026/26.5,Brown,Copy Edit,No,Yes,Asian or Asian American;White or European,No,Female,Heterosexual,Yes,Japan
+2025/25.5,RISD,Creative,No,Yes,Asian or Asian American,No,Female,Asexual;Queer,Yes,China
+2025/25.5,Brown,Copy Edit;Editorial,Yes,No,Black or African American;White or European,No,Female,Heterosexual,No,
+2025/25.5,RISD,Data;Interviews,No,Yes,Asian or Asian American,No,Female,Questioning,Yes,Canada/China
+2027,Brown,Editorial,No,Yes,White or European,No,Female,Heterosexual,Yes,Ukraine
+2026/26.5,Brown,Copy Edit,No,No,White or European,No,Female,Heterosexual,No,
+2025/25.5,Brown,Data,Yes,No,Hispanic or Latino/a;White or European,No,Male,Heterosexual,No,n/a
+,,Creative,,Yes,Asian or Asian American,No,Female,Bisexual,Yes,
+2027,Brown,Copy Edit,No,Yes,White or European,No,Male,Heterosexual,No,
+2024/24.5,Brown,Editorial,No,No,White or European,No,Male,Bisexual,No,
+2027,Brown,Multimedia,No,Yes,White or European,No,Male,Heterosexual,No,
+2027,Brown,Editorial,No,Yes,Asian or Asian American;White or European,No,Male,Heterosexual,No,
+2024/24.5,RISD,Data,No,Yes,Asian or Asian American,No,Female,Heterosexual,No,
+2026/26.5,Brown,Editorial,No,Yes,White or European;Jewish,,Male,Heterosexual,No,
+2027,Brown,Editorial,No,Yes,Asian or Asian American,No,Male,Heterosexual,No,
+2024/24.5,Brown,Editorial,No,No,White or European,No,Female,Bisexual,No,
+2027,Brown,Data,No,Yes,Asian or Asian American,No,Male,Heterosexual,No,
+2026/26.5,Brown,Data,No,No,White or European,No,Male,Gay/Lesbian,No,
+2025/25.5,Brown,Copy Edit,No,No,White or European,No,Male,Gay/Lesbian,No,
+2026/26.5,Brown,Data,No,No,Asian or Asian American,No,Female,Heterosexual,No,
+2025/25.5,Brown,Editorial,Yes,No,White or European,No,Female,Heterosexual,No,
+2025/25.5,Brown,Editorial,No,Yes,Asian or Asian American;White or European,No,Male,Gay/Lesbian,No,
+2024/24.5,Brown,Editorial,Yes,No,White or European,No,Male,Heterosexual,No,
+,,,,Yes,White or European,No,Female,Heterosexual,No,
+2024/24.5,Brown,Editorial,No,No,White or European,Yes,Male,Bisexual,No,
+2024/24.5,RISD,Creative;Data,Yes,No,Asian or Asian American,No,Non-Binary,Asexual,No,
+2024/24.5,RISD,Creative,No,Yes,Asian or Asian American,Yes,Female,Asexual,No,
+2026/26.5,Brown,Business,No,Yes,Asian or Asian American,No,Male,Bisexual,Yes,Myanmar
+2025/25.5,Brown,Editorial,No,No,White or European;Jewish,No,Female,Bisexual,No,
+2026/26.5,Brown,Editorial,No,No,Asian or Asian American;White or European,No,Male,Heterosexual,No,
+2026/26.5,Brown,Editorial,No,No,White or European,No,Male,Heterosexual,No,
+2025/25.5,Brown,Business,Yes,Yes,Asian or Asian American,No,Female,,No,
+2027,Brown,Editorial,No,Yes,Asian or Asian American,No,Male,Heterosexual,No,
+2026/26.5,Brown,Copy Edit,No,No,Hispanic or Latino/a,Yes,Male,Heterosexual,No,
+2026/26.5,Brown,Editorial,No,No,Black or African American,No,Female,Heterosexual,Yes,Angola and Portugal
+2025/25.5,Brown,Interviews,No,No,White or European,No,Male,Heterosexual,No,
+2026/26.5,Brown,Copy Edit,No,No,Hispanic or Latino/a;White or European,No,Female,Queer,No,
+2026/26.5,Brown,Copy Edit,No,Yes,Hispanic or Latino/a,Yes,Female,,No,
+2025/25.5,Brown,Editorial,No,No,White or European,No,Female,Heterosexual,Yes,Germany
+2025/25.5,Brown,Editorial,Yes,No,Asian or Asian American,No,Male,Heterosexual,No,
+2026/26.5,Brown,Copy Edit;Editorial,No,No,Asian or Asian American,No,Female,Bisexual,No,
+2025/25.5,Brown,Editorial,No,No,Hispanic or Latino/a;White or European;Middle Eastern,No,Male,Heterosexual,No,
+2026/26.5,Brown,Data,Yes,No,White or European,No,Male,Heterosexual,No,
+2024/24.5,Brown,Interviews,Yes,No,White or European,No,Male,Heterosexual,No,
+2025/25.5,Brown,Business,No,No,White or European,No,Female,Heterosexual,No,
+2024/24.5,Brown,Business,Yes,No,White or European,No,Male,Heterosexual,No,
+2026/26.5,Brown,Business,No,Yes,Asian or Asian American,No,Female,Heterosexual,No,
+2027,Brown,Business;Interviews,No,Yes,White or European,No,Male,Heterosexual,No,
+2027,Brown,Business,No,Yes,Black or African American,No,Male,Heterosexual,No,
+2026/26.5,Brown,Business,No,Yes,White or European,No,Female,Heterosexual,No,
+2027,Brown,Business,No,No,White or European,Yes,Male,Heterosexual,Yes,Ukraine 
+2026/26.5,RISD,Creative,No,Yes,Asian or Asian American;White or European,No,Female,Queer,No,
+2026/26.5,RISD,Creative,No,Yes,Asian or Asian American,No,Male,Queer,No,
+2027,Brown,Editorial,No,Yes,White or European,No,Female,Questioning,Yes,Russia
+2027,RISD,Editorial,No,Yes,White or European,No,Male;Transgender,Bisexual,Yes,"Russia, Slovenia"
+2024/24.5,RISD,,No,Yes,Hispanic or Latino/a,,Male,Heterosexual,No,
+2024/24.5,Brown,Interviews,No,No,White or European,No,Male,Heterosexual,No,
+2027,Brown,Interviews,No,Yes,White or European,No,Male,Heterosexual,No,
