@@ -15,8 +15,11 @@ const PieChart = ({ data, title }) => {
           {
             data: Object.values(data),
             backgroundColor: [
-              "#95dbd6",
               "#95b3db",
+              "#95dbd6",
+              "#c495db",
+              "#db95d9",
+              "#db95c0",
               "#9597db",
               "#a495db",
               "#db9595",
@@ -26,9 +29,6 @@ const PieChart = ({ data, title }) => {
               "#bddb95",
               "#96db95",
               "#95dbb6",
-              "#c495db",
-              "#db95d9",
-              "#db95c0",
             ],
           },
         ],
